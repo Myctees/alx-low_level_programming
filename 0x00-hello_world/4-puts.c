@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
- * main - Writing a program that prints a line using using the printf function
+ * main - A program that prints a line with function
  * Return: 0 (Success)
  */
-
 int main(void)
 {
-put("/"Programming is like building a multilingual puzzle");
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
